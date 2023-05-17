@@ -5,10 +5,11 @@ I'm Winter, an undergraduate student at UVic
 - 🔭 C++ / Python / Java / HTML & CSS 
 - 🌱 I’m currently learning Rust & Flutter
 
-#### UH 
+### UH 
 - ⚡ Fun fact: 
 
-#### Statistics 
+### Statistics 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinterNH&show_icons=true&theme=shades-of-purple)
 
 <!--
 
