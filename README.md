@@ -1,8 +1,23 @@
 <!-- ### Hi there 👋-->
 # Welcome to my profile! :smiling_imp:
-uh not a scam
+I'm Winter, an undergraduate student at UVic
+
+- 🔭 C++ / Python / Java / HTML & CSS 
+- 🌱 I’m currently learning Rust & Flutter
+- 
+
+##### UH 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+##### Statistics 
+
 <!--
-**WinterNH/WinterNH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
