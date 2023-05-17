@@ -4,17 +4,11 @@ I'm Winter, an undergraduate student at UVic
 
 - 🔭 C++ / Python / Java / HTML & CSS 
 - 🌱 I’m currently learning Rust & Flutter
-- 
 
-##### UH 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### UH 
+- ⚡ Fun fact: 
 
-##### Statistics 
+#### Statistics 
 
 <!--
 
